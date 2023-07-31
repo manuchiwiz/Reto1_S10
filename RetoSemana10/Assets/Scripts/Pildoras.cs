@@ -15,7 +15,7 @@ public class Pildoras : MonoBehaviour
             puntos.GetComponent<Puntos>().puntos += puntosPildora; //suma los puntos de las pastillas 
             Destroy(gameObject); // destruye la pildora cuando nuestro jugador hace colision
           }
-          if(puntos.GetComponent<Puntos>().puntos >=100)
+          if(puntos.GetComponent<Puntos>().puntos >=700)
           {
             winText.SetActive(true);
             StartCoroutine("Win"); 
