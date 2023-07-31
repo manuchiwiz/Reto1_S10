@@ -19,7 +19,7 @@ public class GameOver : MonoBehaviour
     }
     IEnumerator Esperar() 
     {
-        yield return new WaitForSeconds (8);   //El tiempo que demora para cargar la escena
+        yield return new WaitForSeconds (6);   //El tiempo que demora para cargar la escena
         SceneManager.LoadScene(SceneManager.GetActiveScene().name);  //reinica la escena
     }
 }

@@ -178,6 +178,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   puntos: {fileID: 1277339016}
   puntosPildora: 10
+  winText: {fileID: 1893206317}
 --- !u!23 &26871900
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -298,6 +299,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   puntos: {fileID: 1277339016}
   puntosPildora: 10
+  winText: {fileID: 1893206317}
 --- !u!23 &32330389
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -418,6 +420,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   puntos: {fileID: 1277339016}
   puntosPildora: 10
+  winText: {fileID: 1893206317}
 --- !u!23 &85015899
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -538,6 +541,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   puntos: {fileID: 1277339016}
   puntosPildora: 10
+  winText: {fileID: 1893206317}
 --- !u!23 &92892882
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -752,6 +756,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   puntos: {fileID: 1277339016}
   puntosPildora: 10
+  winText: {fileID: 1893206317}
 --- !u!23 &130486888
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -872,6 +877,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   puntos: {fileID: 1277339016}
   puntosPildora: 10
+  winText: {fileID: 1893206317}
 --- !u!23 &133577481
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -992,6 +998,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   puntos: {fileID: 1277339016}
   puntosPildora: 10
+  winText: {fileID: 1893206317}
 --- !u!23 &147497680
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -1097,6 +1104,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   puntos: {fileID: 1277339016}
   puntosPildora: 200
+  winText: {fileID: 0}
 --- !u!1 &204614861
 GameObject:
   m_ObjectHideFlags: 0
@@ -1152,6 +1160,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   puntos: {fileID: 1277339016}
   puntosPildora: 10
+  winText: {fileID: 1893206317}
 --- !u!23 &204614864
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -1272,6 +1281,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   puntos: {fileID: 1277339016}
   puntosPildora: 10
+  winText: {fileID: 1893206317}
 --- !u!23 &218232650
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -1392,6 +1402,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   puntos: {fileID: 1277339016}
   puntosPildora: 10
+  winText: {fileID: 1893206317}
 --- !u!23 &262952642
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -1589,6 +1600,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   puntos: {fileID: 1277339016}
   puntosPildora: 10
+  winText: {fileID: 1893206317}
 --- !u!23 &266769166
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -1709,6 +1721,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   puntos: {fileID: 1277339016}
   puntosPildora: 10
+  winText: {fileID: 1893206317}
 --- !u!23 &268166059
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -1829,6 +1842,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   puntos: {fileID: 1277339016}
   puntosPildora: 10
+  winText: {fileID: 1893206317}
 --- !u!23 &277128869
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -2084,6 +2098,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   puntos: {fileID: 1277339016}
   puntosPildora: 10
+  winText: {fileID: 1893206317}
 --- !u!23 &288701782
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -2204,6 +2219,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   puntos: {fileID: 1277339016}
   puntosPildora: 10
+  winText: {fileID: 1893206317}
 --- !u!23 &339215831
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -2324,6 +2340,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   puntos: {fileID: 1277339016}
   puntosPildora: 10
+  winText: {fileID: 1893206317}
 --- !u!23 &383223041
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -2444,6 +2461,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   puntos: {fileID: 1277339016}
   puntosPildora: 10
+  winText: {fileID: 1893206317}
 --- !u!23 &385561559
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -2544,7 +2562,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 1, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -101, y: -54}
+  m_AnchoredPosition: {x: -101, y: -59}
   m_SizeDelta: {x: 200, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &411259647
@@ -2699,6 +2717,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   puntos: {fileID: 1277339016}
   puntosPildora: 10
+  winText: {fileID: 1893206317}
 --- !u!23 &426236877
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -2880,6 +2899,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   puntos: {fileID: 1277339016}
   puntosPildora: 10
+  winText: {fileID: 1893206317}
 --- !u!23 &475311116
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -3000,6 +3020,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   puntos: {fileID: 1277339016}
   puntosPildora: 10
+  winText: {fileID: 1893206317}
 --- !u!23 &487815448
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -3120,6 +3141,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   puntos: {fileID: 1277339016}
   puntosPildora: 10
+  winText: {fileID: 1893206317}
 --- !u!23 &504954015
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -3240,6 +3262,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   puntos: {fileID: 1277339016}
   puntosPildora: 10
+  winText: {fileID: 1893206317}
 --- !u!23 &521095844
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -3360,6 +3383,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   puntos: {fileID: 1277339016}
   puntosPildora: 10
+  winText: {fileID: 1893206317}
 --- !u!23 &615595732
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -3480,6 +3504,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   puntos: {fileID: 1277339016}
   puntosPildora: 10
+  winText: {fileID: 1893206317}
 --- !u!23 &616013903
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -3600,6 +3625,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   puntos: {fileID: 1277339016}
   puntosPildora: 10
+  winText: {fileID: 1893206317}
 --- !u!23 &653818422
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -3720,6 +3746,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   puntos: {fileID: 1277339016}
   puntosPildora: 10
+  winText: {fileID: 1893206317}
 --- !u!23 &657384773
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -4002,6 +4029,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   puntos: {fileID: 1277339016}
   puntosPildora: 10
+  winText: {fileID: 1893206317}
 --- !u!23 &827908386
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -4122,6 +4150,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   puntos: {fileID: 1277339016}
   puntosPildora: 10
+  winText: {fileID: 1893206317}
 --- !u!23 &883812420
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -4322,6 +4351,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   puntos: {fileID: 1277339016}
   puntosPildora: 10
+  winText: {fileID: 1893206317}
 --- !u!23 &959049183
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -4534,6 +4564,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   puntos: {fileID: 1277339016}
   puntosPildora: 10
+  winText: {fileID: 1893206317}
 --- !u!23 &972994557
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -4654,6 +4685,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   puntos: {fileID: 1277339016}
   puntosPildora: 10
+  winText: {fileID: 1893206317}
 --- !u!23 &978789920
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -4774,6 +4806,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   puntos: {fileID: 1277339016}
   puntosPildora: 10
+  winText: {fileID: 1893206317}
 --- !u!23 &999329321
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -4933,6 +4966,7 @@ GameObject:
   - component: {fileID: 1013672117}
   - component: {fileID: 1013672116}
   - component: {fileID: 1013672115}
+  - component: {fileID: 1013672121}
   m_Layer: 3
   m_Name: Player
   m_TagString: Player
@@ -5067,6 +5101,119 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 73
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!96 &1013672121
+TrailRenderer:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1013672114}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 0
+  m_LightProbeUsage: 0
+  m_ReflectionProbeUsage: 0
+  m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_Time: 0.3
+  m_PreviewTimeScale: 1
+  m_Parameters:
+    serializedVersion: 3
+    widthMultiplier: 1
+    widthCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0.02202643
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.9955947
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    colorGradient:
+      serializedVersion: 2
+      key0: {r: 1, g: 1, b: 1, a: 1}
+      key1: {r: 1, g: 1, b: 1, a: 0}
+      key2: {r: 0, g: 0, b: 0, a: 0}
+      key3: {r: 0, g: 0, b: 0, a: 0}
+      key4: {r: 0, g: 0, b: 0, a: 0}
+      key5: {r: 0, g: 0, b: 0, a: 0}
+      key6: {r: 0, g: 0, b: 0, a: 0}
+      key7: {r: 0, g: 0, b: 0, a: 0}
+      ctime0: 0
+      ctime1: 65535
+      ctime2: 0
+      ctime3: 0
+      ctime4: 0
+      ctime5: 0
+      ctime6: 0
+      ctime7: 0
+      atime0: 0
+      atime1: 65535
+      atime2: 0
+      atime3: 0
+      atime4: 0
+      atime5: 0
+      atime6: 0
+      atime7: 0
+      m_Mode: 0
+      m_ColorSpace: 0
+      m_NumColorKeys: 2
+      m_NumAlphaKeys: 2
+    numCornerVertices: 0
+    numCapVertices: 0
+    alignment: 0
+    textureMode: 0
+    textureScale: {x: 1, y: 1}
+    shadowBias: 0.5
+    generateLightingData: 0
+  m_MinVertexDistance: 0.1
+  m_MaskInteraction: 0
+  m_Autodestruct: 0
+  m_Emitting: 1
+  m_ApplyActiveColorSpace: 1
 --- !u!1 &1034426499
 GameObject:
   m_ObjectHideFlags: 0
@@ -5122,6 +5269,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   puntos: {fileID: 1277339016}
   puntosPildora: 10
+  winText: {fileID: 1893206317}
 --- !u!23 &1034426502
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -5242,6 +5390,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   puntos: {fileID: 1277339016}
   puntosPildora: 10
+  winText: {fileID: 1893206317}
 --- !u!23 &1064315512
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -5362,6 +5511,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   puntos: {fileID: 1277339016}
   puntosPildora: 10
+  winText: {fileID: 1893206317}
 --- !u!23 &1070828313
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -5482,6 +5632,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   puntos: {fileID: 1277339016}
   puntosPildora: 10
+  winText: {fileID: 1893206317}
 --- !u!23 &1079004962
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -5602,6 +5753,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   puntos: {fileID: 1277339016}
   puntosPildora: 10
+  winText: {fileID: 1893206317}
 --- !u!23 &1150378127
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -5722,6 +5874,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   puntos: {fileID: 1277339016}
   puntosPildora: 10
+  winText: {fileID: 1893206317}
 --- !u!23 &1222651922
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -5842,6 +5995,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   puntos: {fileID: 1277339016}
   puntosPildora: 10
+  winText: {fileID: 1893206317}
 --- !u!23 &1254629632
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -6004,6 +6158,7 @@ RectTransform:
   m_Children:
   - {fileID: 411259646}
   - {fileID: 277664467}
+  - {fileID: 1893206318}
   m_Father: {fileID: 0}
   m_RootOrder: 72
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -6107,6 +6262,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   puntos: {fileID: 1277339016}
   puntosPildora: 10
+  winText: {fileID: 1893206317}
 --- !u!23 &1300607672
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -6227,6 +6383,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   puntos: {fileID: 1277339016}
   puntosPildora: 10
+  winText: {fileID: 1893206317}
 --- !u!23 &1334577397
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -6414,6 +6571,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   puntos: {fileID: 1277339016}
   puntosPildora: 10
+  winText: {fileID: 1893206317}
 --- !u!23 &1359045776
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -6534,6 +6692,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   puntos: {fileID: 1277339016}
   puntosPildora: 10
+  winText: {fileID: 1893206317}
 --- !u!23 &1366250327
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -6654,6 +6813,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   puntos: {fileID: 1277339016}
   puntosPildora: 10
+  winText: {fileID: 1893206317}
 --- !u!23 &1377414425
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -6774,6 +6934,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   puntos: {fileID: 1277339016}
   puntosPildora: 10
+  winText: {fileID: 1893206317}
 --- !u!23 &1388965694
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -6974,6 +7135,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   puntos: {fileID: 1277339016}
   puntosPildora: 10
+  winText: {fileID: 1893206317}
 --- !u!23 &1515890987
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -7094,6 +7256,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   puntos: {fileID: 1277339016}
   puntosPildora: 10
+  winText: {fileID: 1893206317}
 --- !u!23 &1598406356
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -7214,6 +7377,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   puntos: {fileID: 1277339016}
   puntosPildora: 10
+  winText: {fileID: 1893206317}
 --- !u!23 &1629425870
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -7334,6 +7498,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   puntos: {fileID: 1277339016}
   puntosPildora: 10
+  winText: {fileID: 1893206317}
 --- !u!23 &1643101085
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -7568,6 +7733,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   puntos: {fileID: 1277339016}
   puntosPildora: 10
+  winText: {fileID: 1893206317}
 --- !u!23 &1725672869
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -7688,6 +7854,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   puntos: {fileID: 1277339016}
   puntosPildora: 10
+  winText: {fileID: 1893206317}
 --- !u!23 &1730336966
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -7808,6 +7975,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   puntos: {fileID: 1277339016}
   puntosPildora: 10
+  winText: {fileID: 1893206317}
 --- !u!23 &1748954631
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -8022,6 +8190,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   puntos: {fileID: 1277339016}
   puntosPildora: 10
+  winText: {fileID: 1893206317}
 --- !u!23 &1836357129
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -8142,6 +8311,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   puntos: {fileID: 1277339016}
   puntosPildora: 10
+  winText: {fileID: 1893206317}
 --- !u!23 &1845726155
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -8339,6 +8509,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   puntos: {fileID: 1277339016}
   puntosPildora: 10
+  winText: {fileID: 1893206317}
 --- !u!23 &1864157340
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -8481,6 +8652,141 @@ PrefabInstance:
       insertIndex: -1
       addedObject: {fileID: 1451702511}
   m_SourcePrefab: {fileID: 100100000, guid: 41f5bb0172a94a4459eee9900b6bf02c, type: 3}
+--- !u!1 &1893206317
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1893206318}
+  - component: {fileID: 1893206320}
+  - component: {fileID: 1893206319}
+  m_Layer: 5
+  m_Name: Win
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!224 &1893206318
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1893206317}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1277339020}
+  m_RootOrder: -1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 600, y: 100}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &1893206319
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1893206317}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_text: YOU WIN
+  m_isRightToLeft: 0
+  m_fontAsset: {fileID: 11400000, guid: 43028a6c00750e642af863d4c4ccd4bf, type: 2}
+  m_sharedMaterial: {fileID: 8910293834181508937, guid: 43028a6c00750e642af863d4c4ccd4bf, type: 2}
+  m_fontSharedMaterials: []
+  m_fontMaterial: {fileID: 0}
+  m_fontMaterials: []
+  m_fontColor32:
+    serializedVersion: 2
+    rgba: 4279227123
+  m_fontColor: {r: 0.9528302, g: 0.8244179, b: 0.05842829, a: 1}
+  m_enableVertexGradient: 0
+  m_colorMode: 3
+  m_fontColorGradient:
+    topLeft: {r: 1, g: 1, b: 1, a: 1}
+    topRight: {r: 1, g: 1, b: 1, a: 1}
+    bottomLeft: {r: 1, g: 1, b: 1, a: 1}
+    bottomRight: {r: 1, g: 1, b: 1, a: 1}
+  m_fontColorGradientPreset: {fileID: 0}
+  m_spriteAsset: {fileID: 0}
+  m_tintAllSprites: 0
+  m_StyleSheet: {fileID: 0}
+  m_TextStyleHashCode: -1183493901
+  m_overrideHtmlColors: 0
+  m_faceColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  m_fontSize: 120
+  m_fontSizeBase: 120
+  m_fontWeight: 400
+  m_enableAutoSizing: 0
+  m_fontSizeMin: 18
+  m_fontSizeMax: 72
+  m_fontStyle: 0
+  m_HorizontalAlignment: 2
+  m_VerticalAlignment: 512
+  m_textAlignment: 65535
+  m_characterSpacing: 0
+  m_wordSpacing: 0
+  m_lineSpacing: 0
+  m_lineSpacingMax: 0
+  m_paragraphSpacing: 0
+  m_charWidthMaxAdj: 0
+  m_enableWordWrapping: 1
+  m_wordWrappingRatios: 0.4
+  m_overflowMode: 0
+  m_linkedTextComponent: {fileID: 0}
+  parentLinkedComponent: {fileID: 0}
+  m_enableKerning: 1
+  m_enableExtraPadding: 0
+  checkPaddingRequired: 0
+  m_isRichText: 1
+  m_parseCtrlCharacters: 1
+  m_isOrthographic: 1
+  m_isCullingEnabled: 0
+  m_horizontalMapping: 0
+  m_verticalMapping: 0
+  m_uvLineOffset: 0
+  m_geometrySortingOrder: 0
+  m_IsTextObjectScaleStatic: 0
+  m_VertexBufferAutoSizeReduction: 0
+  m_useMaxVisibleDescender: 1
+  m_pageToDisplay: 1
+  m_margin: {x: 0, y: 0, z: 0, w: 0}
+  m_isUsingLegacyAnimationComponent: 0
+  m_isVolumetricText: 0
+  m_hasFontAssetChanged: 0
+  m_baseMaterial: {fileID: 0}
+  m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
+--- !u!222 &1893206320
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1893206317}
+  m_CullTransparentMesh: 1
 --- !u!1001 &1899678268
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -8600,6 +8906,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   puntos: {fileID: 1277339016}
   puntosPildora: 10
+  winText: {fileID: 1893206317}
 --- !u!23 &1902204242
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -8720,6 +9027,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   puntos: {fileID: 1277339016}
   puntosPildora: 10
+  winText: {fileID: 1893206317}
 --- !u!23 &1907735858
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -8840,6 +9148,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   puntos: {fileID: 1277339016}
   puntosPildora: 10
+  winText: {fileID: 1893206317}
 --- !u!23 &1908749789
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -8960,6 +9269,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   puntos: {fileID: 1277339016}
   puntosPildora: 10
+  winText: {fileID: 1893206317}
 --- !u!23 &1911421441
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -9080,6 +9390,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   puntos: {fileID: 1277339016}
   puntosPildora: 10
+  winText: {fileID: 1893206317}
 --- !u!23 &1933063346
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -9244,6 +9555,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   puntos: {fileID: 1277339016}
   puntosPildora: 10
+  winText: {fileID: 1893206317}
 --- !u!65 &1935323672
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -9320,6 +9632,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   puntos: {fileID: 1277339016}
   puntosPildora: 10
+  winText: {fileID: 1893206317}
 --- !u!23 &1944868945
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -9440,6 +9753,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   puntos: {fileID: 1277339016}
   puntosPildora: 10
+  winText: {fileID: 1893206317}
 --- !u!23 &1967423530
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -9560,6 +9874,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   puntos: {fileID: 1277339016}
   puntosPildora: 10
+  winText: {fileID: 1893206317}
 --- !u!23 &2099714379
 MeshRenderer:
   m_ObjectHideFlags: 0
