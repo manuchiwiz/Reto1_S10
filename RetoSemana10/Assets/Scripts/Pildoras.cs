@@ -8,6 +8,7 @@ public class Pildoras : MonoBehaviour
     public GameObject puntos;
     public float puntosPildora;
     public GameObject winText;
+    
     void OnTriggerEnter(Collider other) 
         {
           if(other.CompareTag("Player"))
